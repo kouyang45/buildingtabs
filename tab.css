@@ -1,0 +1,16 @@
+body{
+  background-color: lightblue;
+  }
+nav-tabs, div{
+  background-color: yellow;
+  padding: 25px;
+  text-align: center;
+    border-style: solid;
+  }
+div:hover{
+  background-color: orange;
+  }
+  h1{
+    color: maroon;
+    text-align: center;
+  }
